@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Header](./github-header-image.png)
+![Header](./header-image.png)
 
 - 🔭 I’m currently working on Data Science
 - 🌱 I’m currently learning Data Science
