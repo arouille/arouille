@@ -9,6 +9,6 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2536DCCA&width=435&lines=Used+languages+%3A)](https://git.io/typing-svg)</br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,c,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,c,linux,mysql,mongodb)](https://skillicons.dev)
 
 -->
